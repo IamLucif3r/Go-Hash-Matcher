@@ -1,6 +1,15 @@
-# Go-Hash-Matcher
+![](docs/go-hash-matcher-banner.gif)
 
+<div align = "center"> <h1> Go-Hash-Matcher   </h1>	
 A simple password cracker written in Go, designed to search for a specific hashed password in a wordlist.
+</div>
+
+<br>
+<a href=https://twitter.com/IamLucif3r_>
+	
+<div align = "center">
+	
+![](https://img.shields.io/twitter/follow/IamLucif3r_?style=social) </a>    <a href=https://github.com/IamLucif3r> ![](https://img.shields.io/github/followers/IamLucif3r?label=Follow%20Me&style=social) </a> </div>
 
 ## Features
 
@@ -13,13 +22,13 @@ A simple password cracker written in Go, designed to search for a specific hashe
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/IamLucif3r/go-password-cracker.git
+    git clone https://github.com/IamLucif3r/Go-Hash-Matcher.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd go-password-cracker
+    cd Go-Hash-Matcher
     ```
 
 3. Build the project:
