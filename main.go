@@ -27,7 +27,7 @@ func main() {
 	// Enter Hash you want to decrypt
 	search := "$SHA1$d$uP0_QaVBpDWFeo8-dRzDqRwXQ2I"
 	// Provide path for a list of plain text passwords
-	wordlist := "/Users/anmolsinghyadav/Documents/git/CVE-2023-51467-Exploit/rockyou.txt"
+	wordlist := "/usr/share/wordlists/rockyou.txt"
 
 	go utils.ShowLoadingSpinner()
 
